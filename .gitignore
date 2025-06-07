@@ -1,50 +1,93 @@
 # Ignorar carpetas generadas por Unity
-EscenasPreconfiguradas/**/[Ll]ibrary/
-EscenasPreconfiguradas/**/[Tt]emp/
-EscenasPreconfiguradas/**/[Oo]bj/
-EscenasPreconfiguradas/**/[Bb]uild/
-EscenasPreconfiguradas/**/[Bb]uilds/
-EscenasPreconfiguradas/**/Logs/
-EscenasPreconfiguradas/**/UserSettings/
+Escenas1-2/**/[Ll]ibrary/
+Escenas1-2/**/[Tt]emp/
+Escenas1-2/**/[Oo]bj/
+Escenas1-2/**/[Bb]uild/
+Escenas1-2/**/[Bb]uilds/
+Escenas1-2/**/Logs/
+Escenas1-2/**/UserSettings/
+
+Escenas3-5/**/[Ll]ibrary/
+Escenas3-5/**/[Tt]emp/
+Escenas3-5/**/[Oo]bj/
+Escenas3-5/**/[Bb]uild/
+Escenas3-5/**/[Bb]uilds/
+Escenas3-5/**/Logs/
+Escenas3-5/**/UserSettings/
 
 # Archivos de Visual Studio y Rider
-EscenasPreconfiguradas/**/.vs/
-EscenasPreconfiguradas/**/.vscode/
-EscenasPreconfiguradas/**/*.csproj
-EscenasPreconfiguradas/**/*.unityproj
-EscenasPreconfiguradas/**/*.sln
-EscenasPreconfiguradas/**/*.suo
-EscenasPreconfiguradas/**/*.tmp
-EscenasPreconfiguradas/**/*.user
-EscenasPreconfiguradas/**/*.userprefs
+Escenas1-2/**/.vs/
+Escenas1-2/**/.vscode/
+Escenas1-2/**/*.csproj
+Escenas1-2/**/*.unityproj
+Escenas1-2/**/*.sln
+Escenas1-2/**/*.suo
+Escenas1-2/**/*.tmp
+Escenas1-2/**/*.user
+Escenas1-2/**/*.userprefs
+
+Escenas3-5/**/.vs/
+Escenas3-5/**/.vscode/
+Escenas3-5/**/*.csproj
+Escenas3-5/**/*.unityproj
+Escenas3-5/**/*.sln
+Escenas3-5/**/*.suo
+Escenas3-5/**/*.tmp
+Escenas3-5/**/*.user
+Escenas3-5/**/*.userprefs
 
 # Archivos de compilación
-EscenasPreconfiguradas/**/*.pidb
-EscenasPreconfiguradas/**/*.booproj
-EscenasPreconfiguradas/**/*.svd
+Escenas1-2/**/*.pidb
+Escenas1-2/**/*.booproj
+Escenas1-2/**/*.svd
+
+Escenas3-5/**/*.pidb
+Escenas3-5/**/*.booproj
+Escenas3-5/**/*.svd
 
 # Metadatos de Unity y paquetes
-EscenasPreconfiguradas/**/MemoryCaptures/
-EscenasPreconfiguradas/**/AssetImportState/
-EscenasPreconfiguradas/**/ScriptAssemblies/
-EscenasPreconfiguradas/**/SourceAssets/
-EscenasPreconfiguradas/**/ShaderCache/
-EscenasPreconfiguradas/**/StreamingAssets/aa.meta
+Escenas1-2/**/MemoryCaptures/
+Escenas1-2/**/AssetImportState/
+Escenas1-2/**/ScriptAssemblies/
+Escenas1-2/**/SourceAssets/
+Escenas1-2/**/ShaderCache/
+Escenas1-2/**/StreamingAssets/aa.meta
+
+Escenas3-5/**/MemoryCaptures/
+Escenas3-5/**/AssetImportState/
+Escenas3-5/**/ScriptAssemblies/
+Escenas3-5/**/SourceAssets/
+Escenas3-5/**/ShaderCache/
+Escenas3-5/**/StreamingAssets/aa.meta
 
 # Ignorar paquetes descargados
-EscenasPreconfiguradas/**/Packages/com.unity.*
-EscenasPreconfiguradas/**/Packages/manifest.json.lock
+Escenas1-2/**/Packages/com.unity.*
+Escenas1-2/**/Packages/manifest.json.lock
+
+Escenas3-5/**/Packages/com.unity.*
+Escenas3-5/**/Packages/manifest.json.lock
 
 # Archivos del sistema
-EscenasPreconfiguradas/**/Thumbs.db
-EscenasPreconfiguradas/**/Desktop.ini
-EscenasPreconfiguradas/**/.DS_Store
-EscenasPreconfiguradas/**/.idea/
+Escenas1-2/**/Thumbs.db
+Escenas1-2/**/Desktop.ini
+Escenas1-2/**/.DS_Store
+Escenas1-2/**/.idea/
+
+Escenas3-5/**/Thumbs.db
+Escenas3-5/**/Desktop.ini
+Escenas3-5/**/.DS_Store
+Escenas3-5/**/.idea/
 
 # Ignorar builds
-EscenasPreconfiguradas/**/Build/
-EscenasPreconfiguradas/**/Builds/
+Escenas1-2/**/Build/
+Escenas1-2/**/Builds/
+
+Escenas3-5/**/Build/
+Escenas3-5/**/Builds/
 
 # Otros
-EscenasPreconfiguradas/**/*.log
-EscenasPreconfiguradas/**/obj/
+Escenas1-2/**/*.log
+Escenas1-2/**/obj/
+
+Escenas3-5/**/*.log
+Escenas3-5/**/obj/
